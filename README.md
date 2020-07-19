@@ -1,5 +1,5 @@
 # InfoSecEngineering
-Original &amp; reverse-engineered information security tools
+Original / edited information security tools and programs
 
 ## 1. Directory Buster
   Python web content scanner tool used to explore the subdirectories of an address.
